@@ -1,0 +1,3 @@
+print("-----")
+print("LEFT")
+print("=====")
